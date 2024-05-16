@@ -15,11 +15,11 @@ import requests
 # %%
 # define constants
 seed = 42
-raw_file_path = "../../data/raw/100测试语音.xlsx"
+raw_file_path = "data/raw/100测试语音.xlsx"
 audio_format = "m4a"
 audio_sr = 16000
-audio_read_folder = "../../data/raw/100测试语音"
-audio_save_folder = "../../data/processed/100测试语音"
+audio_read_folder = "data/raw/100测试语音"
+audio_save_folder = "data/processed/100测试语音"
 
 # %%
 # load the raw data
@@ -69,6 +69,8 @@ data["audio"] = data["audio_id"].apply(
 data = data.loc[data["audio_id"].str.len() != 2].reset_index(drop=True)
 # cer = cer_metric.compute(predictions=data_no_default["prediction"], references=data_no_default["sentence"])
 # cer: 0.258
+
+data.to_csv(f"{audio_save_folder}/data.csv", index=False)
 
 
 # %%
