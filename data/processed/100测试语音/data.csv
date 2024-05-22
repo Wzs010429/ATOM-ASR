@@ -1,0 +1,91 @@
+audio_url,prediction,sentence,tags,audio_id,audio
+http://jar.bds-analytics.com:9090/group1/voice/726157.m4a,客人青春休闲时尚，喜欢老花，喜欢春天，还喜欢speed，无数人喜欢精致小巧的包型。,客人青春休闲时尚，喜欢老花，喜欢经典款，喜欢speedy，无锡人，喜欢精致小巧的包型。,休闲时尚，喜欢-老花，喜欢-经典，喜欢-speedy，无锡人，喜欢-精致,726157,data/raw/100测试语音/726157.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726162.m4a,无锡人刚刚结婚，喜欢休闲的包包，喜欢黑牛角酷一点的，喜欢小邮差包包么teeth。,无锡人刚刚结婚，喜欢休闲的包包，喜欢黑牛角酷一点的，喜欢小邮差包包metis。,无锡人，喜欢-休闲包，喜欢-黑boulogne酷炫，喜欢-小邮差包metis。,726162,data/raw/100测试语音/726162.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726098.m4a,常州人喜欢小猫，喜欢猫的姑娘，喜欢老婆，喜欢奥那个喜欢戳特。,常州人喜欢小包，喜欢monogram，喜欢老花，喜欢onthego喜欢托特。,常州人，喜欢-小包，喜欢-monogram，喜欢-老花，喜欢-onthego，喜欢-tote。,726098,data/raw/100测试语音/726098.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725801.m4a,希望金典款选老华轩爆款需要发票自己开建筑，在附近开鹿，我喜欢大车喜欢经典色。,喜欢经典款，喜欢老花，喜欢爆款，需要发票，自己开店，住在附近开鹿，喜欢大车，喜欢经典色。,喜欢-经典，喜欢-老花，喜欢-爆款，需要发票,725801,data/raw/100测试语音/725801.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725761.m4a,喜欢休闲，喜欢舒适，喜欢老花，喜欢小刘，才喜欢黑色，喜欢灰色。,喜欢休闲，喜欢舒适，喜欢老花，喜欢小邮差，喜欢黑色，喜欢灰色。,喜欢-休闲，喜欢-舒适，喜欢-老花，喜欢-小邮差包，喜欢-黑色，喜欢-灰色。,725761,data/raw/100测试语音/725761.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725743.m4a,需要发票在于价格，喜欢对比，喜欢的花，喜欢经典种草开瑞。,需要发票在意价格，喜欢对比，喜欢老花，喜欢经典种草carryall,需要发票，价格敏感，喜欢-老花，喜欢-经典，喜欢-carryall,725743,data/raw/100测试语音/725743.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725624.m4a,买过卡普心喜欢，喜欢colour zone送项链，买过acc，喜欢路易威登，买过古驰买过Coach，b到货提醒试用整理的需求。,买过capucines喜欢，喜欢color blossom项链，买过acc，喜欢路易威登，买过gucci买过coach，nano speedy到货提醒，自用赠礼的需求。,买过capucines，喜欢-color blossom项链，买过-饰品，买过-gucci，买过-coach，到货提醒-nano speedy，自用，赠礼。,725624,data/raw/100测试语音/725624.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725491.m4a,喜欢老花，喜欢休闲，喜欢舒适，喜欢法国人，喜欢斜挎，喜欢黑色。,喜欢老花，喜欢休闲，喜欢舒适，喜欢法棍，喜欢斜挎，喜欢黑色。,喜欢-老花，喜欢-休闲，喜欢-舒适，喜欢-diane，喜欢-斜挎包，喜欢-黑色。,725491,data/raw/100测试语音/725491.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725281.m4a,无锡人喜欢逛小红书，喜欢经典，老花喜欢使用，喜欢特喜欢CD20。,无锡人喜欢逛小红书，喜欢经典，老花喜欢实用，喜欢托特喜欢speedy20。,无锡人，小红书，喜欢-经典，喜欢-实用，喜欢-tote，喜欢-speedy20。,725281,data/raw/100测试语音/725281.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725302.m4a,已购特喜欢牛皮，喜欢胖胖无锡人，90后新婚低调有质感。,已购托特喜欢牛皮，喜欢empreinte，无锡人，90后新婚低调有质感。,买过-tote，喜欢-牛皮，喜欢-empreinte，无锡人，90后，低调,725302,data/raw/100测试语音/725302.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725361.m4a,昭通人喜欢老花产品，买过三串可有赠礼需求，喜欢男鞋喜欢香水。,"昭通人喜欢老花产品，买过side trunk, 有赠礼需求，喜欢男鞋喜欢香水。","昭通人，喜欢-老花，买过-side trunk, 赠礼，喜欢-男鞋，喜欢-香水。",725361,data/raw/100测试语音/725361.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725104.m4a,常州人孕妈选新款选爆款，现大象会需要发送代理价格。,常州人孕妈，喜欢新款，喜欢爆款，喜欢大象灰，需要发票，在意价格。,常州人，喜欢-新款，喜欢-爆款，喜欢-大象灰，需要发票，价格敏感。,725104,data/raw/100测试语音/725104.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725109.m4a,喜欢老花，喜欢棕色，老花，喜欢经典款，喜欢拖特棒，喜欢欧洲购。,喜欢老花，喜欢棕色老花，喜欢经典款，喜欢托特包，喜欢onthego。,喜欢-老花，喜欢-棕色，喜欢-经典，喜欢-tote，喜欢-onthego。,725109,data/raw/100测试语音/725109.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724912.m4a,客人自用常驻成都，喜欢speed207，潘哥喜欢，喜欢阅读，爬山旅游。,客人自用常驻成都，喜欢speedy20，棋盘格，喜欢nano speedy，喜欢阅读，爬山旅游。,自用，喜欢-speedy20棋盘格，喜欢-nano speedy，阅读，爬山，旅游。,724912,data/raw/100测试语音/724912.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724955.m4a,顾客喜欢金属链条，露哥喜欢小包，各位喜欢夜下，各位喜欢棕色更喜欢帆布，都会喜欢皮质休闲斜挎。,顾客喜欢金属链条，顾客喜欢小包，顾客喜欢腋下，顾客喜欢棕色顾客喜欢帆布，顾客喜欢皮质顾客喜欢斜挎,,724955,data/raw/100测试语音/724955.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724395.m4a,苏州人休闲年轻，时尚优雅，喜欢，老还喜欢小宝，喜欢迷你包，可推荐女包，可推荐男包，可推荐女鞋，可推荐男鞋，可推荐男装。,苏州人休闲年轻，时尚优雅，喜欢老花，喜欢小包，喜欢迷你包，可推荐女包，可推荐男包，可推荐女鞋，可推荐男鞋，可推荐男装。,,724395,data/raw/100测试语音/724395.m4a
+http://jar.bds-analytics.com:9090/group1/voice/723123.m4a,喜欢手拿包，喜欢黑色买过手拿包买过本，喜欢牛皮有质感的包包，喜欢Tokyo牛皮。,"喜欢手拿包，喜欢黑色,买过手拿包买过voyage, 喜欢牛皮有质感的包包，喜欢taurillon牛皮。","喜欢-手包，喜欢-黑色,买过-手包，买过-voyage, 喜欢-牛皮有质感包，喜欢-taurillon",723123,data/raw/100测试语音/723123.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724958.m4a,顾客喜欢腋下包都不喜欢大宝，各位self不会喜欢，老发个自用个送礼。,顾客喜欢腋下包，顾客喜欢大包，顾客喜欢neverfull，顾客喜欢老花，顾客自用，顾客送礼。,喜欢-腋下包，顾客喜欢大包，顾客喜欢neverfull，顾客喜欢老花，顾客自用，顾客送礼。,724958,data/raw/100测试语音/724958.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724652.m4a,无锡人喜欢啊，胖牛皮喜欢大象灰颜色喜欢休闲包包喜欢斜挎，可以推荐饰品配饰。,无锡人喜欢empreinte牛皮喜欢大象灰颜色喜欢休闲包包喜欢斜挎，可以推荐饰品配饰。,无锡人，喜欢-empreinte牛皮，喜欢-大象灰，喜欢-休闲包，喜欢-斜挎，可推荐-饰品,724652,data/raw/100测试语音/724652.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724673.m4a,喜欢Lisa，喜欢喜欢单肩，喜欢手雷，喜欢俺胖材质，喜欢on the go包包。,喜欢leather，喜欢喜欢单肩，喜欢手拎，喜欢empreinte材质，喜欢on the go包包。,喜欢-皮革，喜欢-单肩包，喜欢手包，喜欢-empreinte，喜欢-onthego,724673,data/raw/100测试语音/724673.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726392.m4a,无锡人短头发喜欢粉色，买果时关注小红书。,无锡人短头发喜欢粉色，买过gucci关注小红书。,"无锡人,喜欢-粉色，买过-gucci,小红书。",726392,data/raw/100测试语音/726392.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726445.m4a,常州人喜欢大包，喜欢托，特喜欢老花，喜欢经典。,常州人喜欢大包，喜欢托特喜欢老花，喜欢经典。,"常州人,喜欢-大包，喜欢-tote，喜欢-老花，喜欢-经典。",726445,data/raw/100测试语音/726445.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726222.m4a,喜欢好花，喜欢金店，买过4b35喜欢休闲。,喜欢好花，喜欢经典，买过speedy35喜欢休闲。,喜欢-经典，买过-speedy35，喜欢-休闲。,726222,data/raw/100测试语音/726222.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726047.m4a,喜欢老花，买个never full，买过CD，喜欢经典。,喜欢老花，买过neverfull，赠礼，买过speedy，喜欢经典。,喜欢-老花，买过-neverfull，赠礼，买过-speedy，喜欢经典。,726047,data/raw/100测试语音/726047.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726093.m4a,无锡人短头发喜欢浅色买过never关注小红书。,无锡人短头发喜欢浅色买过neverfull关注小红书。,无锡人，喜欢-浅色，买过-neverfull，小红书。,726093,data/raw/100测试语音/726093.m4a
+http://jar.bds-analytics.com:9090/group1/voice/726099.m4a,喜欢老还喜欢梦到国人，喜欢on the go。,喜欢老花喜欢monogram，喜欢onthego。,喜欢-老花，喜欢-monogram，喜欢-onthego。,726099,data/raw/100测试语音/726099.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725855.m4a,购买过PT购买过never full中号。,购买过petite malle，购买过never full中号。,买过-petite malle，买过-never full中。,725855,data/raw/100测试语音/725855.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725667.m4a,喜欢老花 on the go小号喜欢kiss。,喜欢老花买 on the go小号，喜欢cannes。,喜欢-老花，买过-onthego小，喜欢-cannes。,725667,data/raw/100测试语音/725667.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725601.m4a,购买lonely baby never full。,购买noe bb never full。,买过-noe bb，买过- never full。,725601,data/raw/100测试语音/725601.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725460.m4a,年轻美女脖子涌喜欢老化么？Teeth邮差包休闲精致，大爆款。,年轻买女包自用，喜欢老花metis邮差包休闲精致，大爆款。,年轻，买过-女包，自用，喜欢-老花metis邮差包，喜欢休闲，喜欢精致，喜欢爆款。,725460,data/raw/100测试语音/725460.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725486.m4a,喜欢老婆，喜欢开热小孩，大宝喜欢休闲款。,喜欢老花，喜欢carryall，喜欢大包，喜欢休闲款。,喜欢-老花，喜欢-carryall，喜欢-大包，喜欢-休闲。,725486,data/raw/100测试语音/725486.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725570.m4a,让他的朋友订了凯奥，买了软盒子。,让他的朋友订了carryall，买了软盒子。,预订-carryall，买过-软盒子。,725570,data/raw/100测试语音/725570.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725504.m4a,喜欢脑花，喜欢Carl。,喜欢老花，喜欢carryall。,喜欢-老花，喜欢-carryall。,725504,data/raw/100测试语音/725504.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725502.m4a,喜欢老花喜欢那么款。,喜欢老花喜欢热门款。,喜欢-老花，喜欢-热门。,725502,data/raw/100测试语音/725502.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725544.m4a,喜欢追那些嗯穿40码40码半。,喜欢trainer鞋嗯穿40码40码半。,喜欢-trainer，鞋履40码40.5码,725544,data/raw/100测试语音/725544.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725141.m4a,买过皮质包包leather，喜欢老花care到货提醒BD到货提醒。,"买过皮质包包leather，喜欢老花carryall到货提醒, nano speedy到货提醒。","买过-皮质包，喜欢-老花，到货提醒-carryall, 到货提醒-nano speedy。",725141,data/raw/100测试语音/725141.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725147.m4a,喜欢牛皮有质感的包包，买过特买过中号托，特喜欢大包赠礼。,喜欢牛皮有质感的包包，买过托特买过中号托特喜欢大包赠礼。,喜欢-牛皮有质感包，买过-tote，买过-中，喜欢-大包，赠礼。,725147,data/raw/100测试语音/725147.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725227.m4a,小老花喜欢经典，喜欢黑色，喜欢皮质，喜欢小尤，才喜欢斜挎。,喜欢老花喜欢经典，喜欢黑色，喜欢皮质，喜欢小邮差，喜欢斜挎。,喜欢-老花，喜欢-经典，喜欢-黑色，喜欢-皮质，喜欢-小邮差包，喜欢-斜挎包。,725227,data/raw/100测试语音/725227.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724983.m4a,05后身高1米65，苗条签售喜欢on the go小号喜欢老花喜欢kiss。,05后身高1米65，苗条签售喜欢on the go小号喜欢老花喜欢cannes,05后，身高165cm，苗条，喜欢-onthego小，喜欢-老花，喜欢-cannes,724983,data/raw/100测试语音/724983.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725024.m4a,无心人90后，嗯以后牛角包喜欢今年款喜欢老花。,无锡人，90后，嗯已购牛角包，喜欢经典款喜欢老花。,无锡人，90后，买过-boulogne，喜欢-经典，喜欢-老花。,725024,data/raw/100测试语音/725024.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724913.m4a,客人长住江苏自用买过爱马仕，喜欢嗯想看男鞋腰带。,客人长住江苏自用买过爱马仕，喜欢嗯monogram想看男鞋腰带。,自用，买过-爱马仕，喜欢-monogram，喜欢-男鞋，喜欢-腰带。,724913,data/raw/100测试语音/724913.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724956.m4a,无锡人喜欢老花包，喜欢把棍，喜欢牛角，喜欢休闲，喜欢斜挎，是吗？,无锡人喜欢老花包，喜欢法棍，喜欢牛角，喜欢休闲，喜欢斜挎，是吗？,无锡人，喜欢-老花，喜欢-diane，喜欢-boulogne，喜欢-休闲，喜欢-斜挎包,724956,data/raw/100测试语音/724956.m4a
+http://jar.bds-analytics.com:9090/group1/voice/721793.m4a,买过阿奇莱，买过PPT。,买过archlight，买过petite malle,买过-archlight，买过-petite malle,721793,data/raw/100测试语音/721793.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724895.m4a,无锡人喜欢大包，喜欢特喜欢使用，有送礼需求。,无锡人喜欢大包，喜欢托特喜欢实用，有送礼需求。,无锡人，喜欢-大包，喜欢-tote，喜欢-实用，赠礼,724895,data/raw/100测试语音/724895.m4a
+http://jar.bds-analytics.com:9090/group1/voice/720793.m4a,在上海买过喜欢老花买了推理。,在上海买过喜欢老花买了twinny。,喜欢-老花，买过-twinny。,720793,data/raw/100测试语音/720793.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724690.m4a,比较纠结，喜欢法国，喜欢牛角，喜欢老花，喜欢黑色，喜欢灰色。,比较纠结，喜欢法棍，喜欢牛角，喜欢老花，喜欢黑色，喜欢灰色。,谨慎，喜欢-diane，喜欢-boulogne，喜欢-老花，喜欢-黑色，喜欢-灰色。,724690,data/raw/100测试语音/724690.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724756.m4a,自用喜欢老花，喜欢精致，喜欢小猫，喜欢斜挎包，喜欢可爱，喜欢发过去。,自用，喜欢老花，喜欢精致，喜欢小包，喜欢斜挎包，喜欢可爱，喜欢法棍。,自用，喜欢-老花，喜欢-精致，喜欢-小包，喜欢-斜挎包，喜欢-可爱，喜欢-diane。,724756,data/raw/100测试语音/724756.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724766.m4a,新疆人喜欢品质款，喜欢黑色包，喜欢大包。,新疆人喜欢皮质款，喜欢黑色包，喜欢大包。,新疆人，喜欢-皮革，喜欢-黑色，喜欢-大包。,724766,data/raw/100测试语音/724766.m4a
+http://jar.bds-analytics.com:9090/group1/voice/717356.m4a,喜欢牛角，爱创 new包。,喜欢牛角，side trunk，女包,喜欢-boulogne，喜欢-side trunk，喜欢-女包,717356,data/raw/100测试语音/717356.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724399.m4a,精致，休闲优雅，广州人喜欢老化，可推荐你bug推荐配饰。,精致，休闲优雅，广州人喜欢老花，可推荐女包可推荐配饰。,精致，休闲，优雅，广州人，喜欢-老花，可推荐-女包，可推荐-饰品。,724399,data/raw/100测试语音/724399.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724422.m4a,自用喜欢老花，喜欢精致，喜欢法国，喜欢可爱喜欢。,自用，喜欢老花，喜欢精致，喜欢法棍，喜欢可爱喜欢牛角包。,自用，喜欢-老花，喜欢-精致，喜欢-diane，喜欢-可爱，喜欢-boulogne,724422,data/raw/100测试语音/724422.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724441.m4a,恒隆新会员需要发票，喜欢小差。,恒隆新会员需要发票，喜欢小邮差。,恒隆，需要发票，喜欢-小邮差包。,724441,data/raw/100测试语音/724441.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724455.m4a,喜欢黑色小包，喜欢一时这瓶香水。,喜欢黑色小包，喜欢逸时这瓶香水。,喜欢-黑色小包，喜欢-逸时。,724455,data/raw/100测试语音/724455.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724487.m4a,90后定系吾系比较休闲随性，循环经典老花款式的斜挎包。,90后，定居无锡，比较休闲随性，喜欢经典老花款式，喜欢斜挎包。,90后，休闲，喜欢-经典，喜欢-斜挎包。,724487,data/raw/100测试语音/724487.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724550.m4a,自用喜欢老花，喜欢精致，喜欢可爱，喜欢油皮，喜欢小猫。,自用喜欢老花，喜欢精致，喜欢可爱，喜欢牛皮，喜欢小包。,自用，喜欢-老花，喜欢-精致，喜欢-可爱，喜欢-牛皮，喜欢-小包。,724550,data/raw/100测试语音/724550.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724255.m4a,喜欢老花，喜欢经典，喜欢never，不喜欢红色，喜欢手提。,喜欢老花，喜欢经典，喜欢neverfull，喜欢红色，喜欢手提。,喜欢-老花，喜欢-经典，喜欢-neverfull，喜欢-红色，喜欢-手包。,724255,data/raw/100测试语音/724255.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724326.m4a,喜欢老花，喜欢他的诺，也喜欢小宝，喜欢斜挎，喜欢经典。,喜欢老花，喜欢nano noe，喜欢小包，喜欢斜挎，喜欢经典。,喜欢-老花，喜欢-nano noe，喜欢-小包，喜欢-斜挎包，喜欢-经典。,724326,data/raw/100测试语音/724326.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724000.m4a,喜欢老花，喜欢经典款，喜欢小宝，喜欢ib，喜欢牛角，喜欢法棍。,喜欢老花，喜欢经典款，喜欢小包，喜欢ivy，喜欢牛角，喜欢法棍。,喜欢-老花，喜欢-经典，喜欢-小包，喜欢-ivy，喜欢-boulogne，喜欢-diane。,724000,data/raw/100测试语音/724000.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724010.m4a,喜欢黑色，喜欢看，若喜欢法官。,喜欢黑色，喜欢carryall喜欢法棍,喜欢-黑色，喜欢-carryall，喜欢-diane,724010,data/raw/100测试语音/724010.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724135.m4a,四川人喜欢的花喜欢Cara哦。,四川人喜欢老花喜欢carryall,四川人，喜欢-老花，喜欢-carryall,724135,data/raw/100测试语音/724135.m4a
+http://jar.bds-analytics.com:9090/group1/voice/725025.m4a,可推荐音箱已购，campaign go never fall，无锡人喜欢在国外购买喜欢爱马仕。,可推荐硬箱，已购capucines，已购neverfull，无锡人喜欢在国外购买喜欢爱马仕。,可推荐-硬箱，买过-capucines，买过-neverfull，无锡人，喜欢-爱马仕。,725025,data/raw/100测试语音/725025.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724815.m4a,无锡人喜欢运动休闲，喜欢note，喜欢脱鞋子，尺码36。,无锡人喜欢运动休闲，喜欢gucci，喜欢拖鞋，尺码36。,无锡人，喜欢-运动休闲，喜欢-gucci，喜欢-拖鞋，鞋子36码。,724815,data/raw/100测试语音/724815.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724828.m4a,喜欢大包，喜欢我的狗，喜欢老黄轩第2巷，华仑天奴现经典款就是超级大包。,喜欢大包，喜欢onthego，喜欢老花，喜欢迪奥，喜欢华伦天奴，喜欢经典款，喜欢超级大包。,喜欢-大包，喜欢-onthego，喜欢-老花，喜欢-迪奥，喜欢-华伦天奴，喜欢-经典,724828,data/raw/100测试语音/724828.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724853.m4a,无锡人喜欢爱马仕，喜欢上罗兰，低调有质感，娇小。,无锡人喜欢爱马仕，喜欢圣罗兰，低调有质感，娇小。,无锡人，喜欢-爱马仕，喜欢-圣罗兰，低调有质感，娇小。,724853,data/raw/100测试语音/724853.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724671.m4a,喜欢哭泣喜欢呆的窗口。,"喜欢gucci, 喜欢side trunk。身材高挑","喜欢-gucci, 喜欢-side trunk，高挑",724671,data/raw/100测试语音/724671.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724482.m4a,喜欢经典款，喜欢休闲，喜欢法国人，喜欢老黄，喜欢经典款，喜欢撒尿。,喜欢经典款，喜欢休闲，喜欢法棍，喜欢老花，喜欢经典款，喜欢channel。,喜欢-经典，喜欢-休闲，喜欢-diane，喜欢-老花，喜欢-经典，喜欢-channel。,724482,data/raw/100测试语音/724482.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724569.m4a,无锡人就零后已购，法国人喜欢女包，喜欢爱马仕喜欢哭泣。,无锡人，90后，已购法棍，喜欢女包，喜欢爱马仕喜欢gucci。,无锡人，90后，买过-diane，喜欢-女包，喜欢-爱马仕，喜欢-gucci。,724569,data/raw/100测试语音/724569.m4a
+http://jar.bds-analytics.com:9090/group1/voice/723800.m4a,山东人40岁左右，鞋子穿40码，买锅底啊。,山东人40岁左右，鞋子穿40码，买过迪奥,山东人，40岁左右，鞋子40码，买过-迪奥,723800,data/raw/100测试语音/723800.m4a
+http://jar.bds-analytics.com:9090/group1/voice/723388.m4a,客人称此令客人穿罗意威，客人喜欢衣服很喜欢老花，年轻人自用。,客人穿celine，客人穿罗意威，客人喜欢衣服很喜欢老花，年轻人自用。,买过-celine，买过-罗意威，客人喜欢衣服很喜欢老花，年轻人自用。,723388,data/raw/100测试语音/723388.m4a
+http://jar.bds-analytics.com:9090/group1/voice/722643.m4a,喜欢黑色，喜欢酷炫，喜欢经典款，喜欢羊皮，开rio，喜欢大号，选AC，选配饰，喜欢爱马仕，个子高，喜欢匡威。,喜欢黑色，喜欢酷炫，喜欢经典款，喜欢羊皮carryall，喜欢大号，喜欢ACC，喜欢配饰，喜欢爱马仕，个子高，喜欢匡威。,,722643,data/raw/100测试语音/722643.m4a
+http://jar.bds-analytics.com:9090/group1/voice/721459.m4a,喜欢逛街，喜欢香奈儿，喜欢跳。,喜欢逛街，喜欢香奈儿，喜欢迪奥,,721459,data/raw/100测试语音/721459.m4a
+http://jar.bds-analytics.com:9090/group1/voice/720783.m4a,喜欢老黄啊，喜欢on the door，比较喜欢经典款，不喜欢黑色，不喜欢牛皮，喜欢爱马仕。,喜欢老花啊，喜欢on the go，比较喜欢经典款，不喜欢黑色，不喜欢牛皮，喜欢爱马仕。,,720783,data/raw/100测试语音/720783.m4a
+http://jar.bds-analytics.com:9090/group1/voice/720686.m4a,喜欢迪奥买过皮，只喜欢特别不喜欢包款。,喜欢迪奥，买过皮质，喜欢特别，不喜欢包款。,,720686,data/raw/100测试语音/720686.m4a
+http://jar.bds-analytics.com:9090/group1/voice/575837.m4a,客人喜欢老花，喜欢经典款，追求性价比，之前买过老花的包，裤子喜欢喜欢小now，喜欢爱马仕，喜欢普拉达。,客人喜欢老花，喜欢经典款，追求性价比，之前买过老花的包，gucci喜欢喜欢channel，喜欢爱马仕，喜欢prada。,,575837,data/raw/100测试语音/575837.m4a
+http://jar.bds-analytics.com:9090/group1/voice/578560.m4a,女士，穿凡客雅宝昌巴宝burberry，喜欢大包需要放iPad，喜欢使用办公。,女士，穿凡客雅宝穿巴宝burberry，喜欢大包需要放iPad，喜欢实用办公。,,578560,data/raw/100测试语音/578560.m4a
+http://jar.bds-analytics.com:9090/group1/voice/724033.m4a,嗯，喜欢买经典老牌，然后买过想要牛角包，然后买皮带穿丝裤，先生喜欢买春呢，喜欢牛仔的款式，喜欢黑色，喜欢拿诺以。,嗯，喜欢买经典老花，然后买过想要牛角包，然后买皮带穿丝裤，先生喜欢买trainer，喜欢牛仔的款式，喜欢黑色，喜欢nano noe。,,724033,data/raw/100测试语音/724033.m4a
+http://jar.bds-analytics.com:9090/group1/voice/722882.m4a,送给女朋友36.5，喜欢老婆，选件喜欢穿的，喜欢lb喜欢百搭喜欢凉鞋。,送给女朋友36.5，喜欢老花经典，喜欢trainer，喜欢lv，喜欢百搭喜欢凉鞋。,,722882,data/raw/100测试语音/722882.m4a
+http://jar.bds-analytics.com:9090/group1/voice/721733.m4a,现在还有没有老公喜欢男装喜欢花哨一些的男装，喜欢男宝喜欢哪些？自己喜欢女包喜欢女鞋。,现在还有没有，老公喜欢男装，喜欢花哨一些的男装，喜欢男包，喜欢男鞋，自己喜欢女包喜欢女鞋。,,721733,data/raw/100测试语音/721733.m4a
+http://jar.bds-analytics.com:9090/group1/voice/721280.m4a,购买Google赠送女士礼物，男士鞋码39。,"购买go-14,赠送女士礼物，男士鞋码39。",,721280,data/raw/100测试语音/721280.m4a
+http://jar.bds-analytics.com:9090/group1/voice/576523.m4a,客人45岁左右，年轻时尚，买了BD20喜欢灰色，喜欢牛皮，给女儿买了情人节限定手链喜欢acc，喜欢耳钉。,客人45岁左右，年轻时尚，买了speedy20喜欢灰色，喜欢牛皮，给女儿买了情人节限定手链喜欢acc，喜欢耳钉。,,576523,data/raw/100测试语音/576523.m4a
+http://jar.bds-analytics.com:9090/group1/voice/583607.m4a,不过买过拉诺斯BD有整理需求，喜欢老花，可推荐皮质宝宝。,不过买过nano speedy有整理需求，喜欢老花，可推荐皮质包包。,,583607,data/raw/100测试语音/583607.m4a
+http://jar.bds-analytics.com:9090/group1/voice/583606.m4a,购买过AV，喜欢爆款，喜欢小宝和推荐皮质宝宝，年轻。,购买过ivy，喜欢爆款，喜欢小包，可推荐皮质包包，年轻。,,583606,data/raw/100测试语音/583606.m4a
+http://jar.bds-analytics.com:9090/group1/voice/583582.m4a,年轻女性爱好旅游爱好瑜伽，喜欢香奈儿，喜欢sea line。,年轻女性，爱好旅游，爱好瑜伽，喜欢channel，喜欢celine。,,583582,data/raw/100测试语音/583582.m4a
+http://jar.bds-analytics.com:9090/group1/voice/585599.m4a,年轻女性喜欢歌曲，喜欢迪奥，爱好美食，买过经典款女包，法棍到货通知。,年轻女性，喜欢歌曲，喜欢迪奥，爱好美食，买过经典款女包，法棍到货通知。,,585599,data/raw/100测试语音/585599.m4a
+http://jar.bds-analytics.com:9090/group1/voice/587405.m4a,喜欢color blue zone。,喜欢color blossom，喜欢小众款,,587405,data/raw/100测试语音/587405.m4a
+http://jar.bds-analytics.com:9090/group1/voice/587562.m4a,喜欢凡客雅宝，喜欢施华洛世奇。,喜欢凡客雅宝，喜欢施华洛世奇。,,587562,data/raw/100测试语音/587562.m4a
+http://jar.bds-analytics.com:9090/group1/voice/587995.m4a,点中年女性，爱好美食，爱好穿搭爱好看电影，喜欢爱马仕，喜欢低位买过女包法官到货通知。,点中年女性，爱好美食，爱好穿搭爱好看电影，喜欢爱马仕，喜欢迪奥，买过女包，法棍到货通知。,,587995,data/raw/100测试语音/587995.m4a
+http://jar.bds-analytics.com:9090/group1/voice/642793.m4a,买过灰色大号capacity送妈妈，买过living，喜欢牛皮的质感，追求质感，比较爽气。,"买过灰色大号capucines,送妈妈，买过vavin，喜欢牛皮的质感，追求质感，比较爽气。",,642793,data/raw/100测试语音/642793.m4a
+http://jar.bds-analytics.com:9090/group1/voice/710217.m4a,气质优雅，女性化留学生，文化高，精美买过set，喜欢迷你包，喜欢小包斜挎，她的妈妈，嗯微胖，优雅，她的妈妈喜欢大包。,"气质优雅，女性化,留学生，文化高，精美,买过side trunk，喜欢迷你包，喜欢小包斜挎，她的妈妈，嗯微胖，优雅，她的妈妈喜欢大包。",,710217,data/raw/100测试语音/710217.m4a
+http://jar.bds-analytics.com:9090/group1/voice/623001.m4a,送妈妈，喜欢老花，喜欢经典，喜欢大容量，喜欢大象，会喜欢有质感，喜欢有肩带，需要发票。,送妈妈，喜欢老花，喜欢经典，喜欢大容量，喜欢大象灰，会喜欢有质感，喜欢有肩带，需要发票。,,623001,data/raw/100测试语音/623001.m4a
