@@ -1,0 +1,11 @@
+deepseek_100_prompt_20240523_1.csv 包含100个又deepseek生成的假数据，又8个示例句子生成1个标签
+
+deepseek_100_prompt_20240523_2.csv 包含100个又deepseek生成的假数据，又4个示例句子生成1个标签
+
+deepseek_200_20240529_1.csv 把 deepseek_100_prompt_20240523_1.csv 和 deepseek_100_prompt_20240523_2.csv 合并到一个文件，并且添加uuid4
+
+deepseek_1800_prompt_20240530_1.csv 为新生成的1800个deepseek生成的假数据，4个示例生成一个标签
+
+deepseek_2000_20240530_1.csv 把 deepseek_200_20240529_1.csv 和 deepseek_1800_prompt_20240530_1.csv 合并到一个文件
+
+processed_data_20240530_1.csv 钟声处理后果的deepseek_2000_20240530_1.csv，为了TTS模型表现对文本标签进行处理
